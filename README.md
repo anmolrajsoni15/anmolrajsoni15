@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anmolrajsoni15
+- 👋 Hi, I’m @anmolrajsoni15.
        My name is Anmol Raj Soni
 - 👀 I’m interested in learning programming languages and learning new things.
 -💻⌨ Learned Python, C and C++.
