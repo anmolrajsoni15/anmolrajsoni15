@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @anmolrajsoni15
+       My name is Anmol Raj Soni
 - 👀 I’m interested in learning programming languages and learning new things.
--💻⌨ Learned C and C++.
+-💻⌨ Learned Python, C and C++.
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to contribute on open source projects 
 - 📫 How to reach me :- anmolrajsoni15@gmail.com
 
 <!---
